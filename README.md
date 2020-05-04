@@ -2,7 +2,7 @@
 
 #### 介绍
 
-webpack4 最新的脚手架的搭建和最简单的 todolist
+webpack4 最新的脚手架的搭建和最简单的 router + todolist
 
 #### 软件架构
 
