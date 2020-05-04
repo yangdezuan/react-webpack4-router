@@ -29,6 +29,7 @@ ReactDOM.render(
           <Users />
         </Route>
         <Route path="/">
+          <App></App>
           <Home />
         </Route>
       </Switch>
